@@ -94,7 +94,7 @@ input[type="submit"] {
     letter-spacing: 1px;
     color: whitesmoke;
     padding: 0.5em;
-    transition-property: background;
+    transition-property: background;      
     transition-duration: 0.2s;
 }
 input[type="submit"]:hover {
